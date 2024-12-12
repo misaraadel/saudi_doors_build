@@ -1,5 +1,5 @@
 @font-face {
-  font-family: 'Hero';
+  font-family: "Hero";
   src: url("./Hero-Light.ttf");
   font-weight: 500;
   font-style: normal;
@@ -7,18 +7,49 @@
 }
 
 @font-face {
-  font-family: 'Hero';
+  font-family: "Hero";
   src: url("./Hero-Regular.ttf");
   font-weight: medium;
   font-style: 700;
   font-display: swap;
 }
 
-
 @font-face {
-  font-family: 'Hero';
+  font-family: "Hero";
   src: url("./Hero-Bold.ttf");
   font-weight: 900;
   font-style: normal;
   font-display: swap;
+}
+
+@font-face {
+  font-family: "LamaSans";
+  src: url("./LamaSans-Regular.ttf");
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "LamaSans";
+  src: url("./LamaSans-Medium.ttf");
+  font-weight: medium;
+  font-style: 700;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "LamaSans";
+  src: url("./LamaSans-Bold.ttf");
+  font-weight: 900;
+  font-style: normal;
+  font-display: swap;
+}
+
+html[dir="ltr"] {
+  font-family: "Hero", sans-serif;
+}
+
+html[dir="rtl"] {
+  font-family: "LamaSans", sans-serif;
 }
