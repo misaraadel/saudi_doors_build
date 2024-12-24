@@ -1,0 +1,9 @@
+<svg width="305" height="316" viewBox="0 0 305 316" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Group">
+<path id="Vector" style="transform-origin: center; transform-box: fill-box; animation: zoom 2s linear infinite alternate;" d="M141.382 0.203125H254.237C264.008 0.203125 271.93 8.12438 271.93 17.8957V130.751C271.93 140.523 264.008 148.444 254.237 148.444H141.382C131.61 148.444 123.689 140.523 123.689 130.751V17.8957C123.689 8.12438 131.61 0.203125 141.382 0.203125Z" fill="#F29299"/>
+<path id="Vector_2" style="transform-origin: center; transform-box: fill-box; animation: zoom 1s linear infinite alternate;" d="M225.248 193.887H291.726C298.954 193.887 304.812 199.746 304.812 206.973V273.451C304.812 280.678 298.954 286.537 291.726 286.537H225.248C218.021 286.537 212.162 280.678 212.162 273.451V206.973C212.162 199.746 218.021 193.887 225.248 193.887Z" fill="#F9EAEB"/>
+<path id="Vector_3" style="transform-origin: center; transform-box: fill-box; animation: zoom 3s linear infinite alternate;" d="M163.489 315.797H50.6339C40.8626 315.797 32.9414 307.876 32.9414 298.104L32.9414 185.249C32.9414 175.477 40.8626 167.556 50.6339 167.556L163.489 167.556C173.261 167.556 181.182 175.477 181.182 185.249L181.182 298.104C181.182 307.876 173.261 315.797 163.489 315.797Z" fill="#001845"/>
+<path id="Vector_4" style="transform-origin: center; transform-box: fill-box; animation: zoom 2.3s linear infinite alternate;" d="M79.7517 121.996L13.2737 121.996C6.0464 121.996 0.1875 116.137 0.1875 108.91L0.1875 42.4319C0.1875 35.2045 6.0464 29.3456 13.2737 29.3456L79.7517 29.3456C86.979 29.3456 92.8379 35.2045 92.8379 42.4319L92.8379 108.91C92.8379 116.137 86.979 121.996 79.7517 121.996Z" fill="#DADADA"/>
+</g>
+<style>@keyframes zoom { 0% { transform: scale(1); } 100% { transform: scale(.8); }}</style>
+</svg>
